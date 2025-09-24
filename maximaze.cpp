@@ -1,0 +1,16 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+#define dvec vector<vector<int>>
+#define vec vector<int>
+#define ll long long
+#define bismillah ios_base::sync_with_stdio(0), cin.tie(NULL), cout.tie(NULL);
+
+int main(){
+	bismillah
+	int t; cin >> t;
+	while(t--){
+		int x; cin >> x;
+		cout << x-1 << endl;
+	}
+}
